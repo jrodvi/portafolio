@@ -23,7 +23,7 @@
 						<li class="nav-item"><a class="nav-link" href="#services"><i class="fa-sharp fa-light fa-hands-holding-circle"></i> Servicios</a></li>
 						
 						<li class="nav-item"><a class="nav-link" href="#about"><i class="fa-sharp fa-light fa-user"></i> Acerca de</a></li>                     
-						<li class="nav-item"><a aria-label="descargar curriculum vitae" class="nav-link" href="/src/assets/cv/CV_ES.pdf" target="_blank"><i class="fa-sharp fa-light fa-file"></i> Currículum</a></li>
+						<li class="nav-item"><a aria-label="descargar curriculum vitae" class="nav-link" href="/cv/CV_ES.pdf" target="_blank"><i class="fa-sharp fa-light fa-file"></i> Currículum</a></li>
 						<li class="nav-item"><a class="nav-link" href="#contact"><i class="fa-sharp fa-light fa-envelope"></i> Contacto</a></li>
                     </ul>
                 </div>
